@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Charging Stations Finder</string>
+    <string name="title_activity_maps">Charging Stations Finde</string>
+    <string name="okay">Okay!</string>
+    <string name="available_charging_points">Available charging point: %1$d </string>
+    <string name="error_msg_no_internet">Please check your network connection!</string>
+</resources>
